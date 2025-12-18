@@ -30,7 +30,7 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 MONIR",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -50,8 +50,8 @@
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61583204637516",
+    "61582491046455"
   ],
   "whiteListMode": {
     "enable": false,
